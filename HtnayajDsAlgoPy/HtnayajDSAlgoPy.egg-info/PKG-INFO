@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: HtnayajDSAlgoPy
+Version: 0.1.0
+Summary: A Python package for data structures and algorithms
+Author: Jayanth Chukka
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: numpy
+Requires-Dist: heapy
